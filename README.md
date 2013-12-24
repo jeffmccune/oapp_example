@@ -1,6 +1,8 @@
-# OappExample
+# OApp Example
 
-TODO: Write a gem description
+This gem is meant to be an example web app of how to use the oapp gem in your
+project.  This project is a simple Sinatra app using the oapp gem and deployed
+to Heroku.  This project follows the 12-factor app conventions.
 
 ## Installation
 
